@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f08e3601-8d53-44ba-9a5c-009c70fe73d7)<div align="center">
-  
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/anime-changing-scenery)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/Anime-Changing-Scenery?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/Anime-Changing-Scenery?style=social)
