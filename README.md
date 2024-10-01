@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/f08e3601-8d53-44ba-9a5c-009c70fe73d7)<div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/anime-changing-scenery)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/Anime-Changing-Scenery?style=social)
@@ -22,7 +22,7 @@
 
 ### Demo Screeshots
 
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Anime Changing Scenery](./Desktop.png "Desktop Demo")
 
 ### Prerequisites
 
