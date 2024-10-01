@@ -1,3 +1,5 @@
+<div align="center">
+  
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/anime-changing-scenery)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/Anime-Changing-Scenery?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/Anime-Changing-Scenery?style=social)
@@ -7,7 +9,6 @@
   <br />
   
   <img src="./Desktop1.png" />
-
   <h2 align="center">Anime Changing Scenery</h2>
 
   Anime Changing Scenery is a fully responsive Fun website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
