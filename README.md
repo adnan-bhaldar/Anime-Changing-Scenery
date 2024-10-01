@@ -8,7 +8,7 @@
   <br />
   <br />
   
-  <img src="./Desktop.png" />
+  <img src="./Desktop1.png" />
 
   <h2 align="center">Anime Changing Scenery</h2>
 
@@ -22,7 +22,7 @@
 
 ### Demo Screeshots
 
-![Anime Changing Scenery](./Desktop.png "Desktop Demo")
+![Anime Changing Scenery](./Desktop2.png "Desktop Demo")
 
 ### Prerequisites
 
