@@ -8,7 +8,7 @@
   <br />
   <br />
   
-  <img src="./Desktop1.png" />
+  <img src="./Desktop.png" />
   <h2 align="center">Anime Changing Scenery</h2>
 
   Anime Changing Scenery is a fully responsive Fun website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
